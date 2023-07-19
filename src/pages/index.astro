@@ -1,15 +1,15 @@
 ---
+import Layout from "../layouts/Layout.astro";
+import Section from "../components/Section.astro";
+import presentation from "../data/presentation";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="Dai Chekkal | Software engineer and a web developer">
+  <div class="mb-20">
+    <h1 class="text-3xl mb-5">{presentation?.title}</h1>
+    <p class="text-gray-400 max-w-[500px]">
+      {presentation?.description}
+    </p>
+  </div>
+  <Section title="Selected projects">Coming soon...</Section>
+</Layout>
