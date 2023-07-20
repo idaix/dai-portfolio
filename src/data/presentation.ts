@@ -13,7 +13,7 @@ type PresentationType = {
 const presentation: PresentationType = {
   title: "Hi, I'am Dai",
   description:
-    "I'm an Algerian software engineering student and a frontend developer. I am currently working with NextJS and Typescript.",
+    "Enthusiastic software engineering student and frontend developer from Algeria. Currently working with NextJS and Typescript. Fascinated by AI and ML. Let's create amazing web experiences together! 🚀💫",
   mail: "daichekkal@gmail.com",
   social: [
     { label: "Github", url: "https://github.com/daishek" },
