@@ -7,8 +7,10 @@ import Section from "./Section.astro";
   <div class="container py-10">
     <Section title="Get in touch">
       <p class="mb-3 text-gray-400">
-        Email me at <a class="font-semibold" href="daichekkal@gmail.com"
-          >{presentation.mail}</a
+        Email me at
+        <a
+          class="font-semibold hover:text-white transition ease"
+          href={`mailto:${presentation.mail}`}>{presentation.mail}</a
         > or follow me via my social links.
       </p>
       <ul class="flex space-x-3 text-gray-400 text-xs">
