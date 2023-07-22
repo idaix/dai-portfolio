@@ -5,7 +5,7 @@ const { url, tags, title } = Astro.props;
 <article
   class="p-3 border border-gray-400 rounded-lg duration-300 ease hover:-translate-y-1 group relative overflow-hidden"
 >
-  <a href={url}>
+  <a target="_blank" href={url}>
     <p class="text-xs text-gray-400">
       <span class="text-sm text-white">{title}</span>
       {tags.join(", ")}
