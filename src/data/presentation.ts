@@ -17,7 +17,7 @@ const presentation: PresentationType = {
   mail: "daichekkal@gmail.com",
   social: [
     { label: "Github", url: "https://github.com/daishek" },
-    { label: "Twitter", url: "https://twitter.com/daixek" },
+    { label: "X", url: "https://x.com/daixek" },
   ],
 };
 
