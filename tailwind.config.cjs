@@ -9,7 +9,13 @@ module.exports = {
         md: "750px",
       },
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        replicate: ["Space Grotesk", "sans-serif"],
+        comfortaa: ["Comfortaa", "cursive"],
+        "syne-mono": ["Syne Mono", "monospace"],
+      },
+    },
   },
   plugins: [],
 };
