@@ -10,6 +10,9 @@ module.exports = {
       },
     },
     extend: {
+      backgroundSize: {
+        over: "200% 200%",
+      },
       fontFamily: {
         replicate: ["Space Grotesk", "sans-serif"],
         comfortaa: ["Comfortaa", "cursive"],
