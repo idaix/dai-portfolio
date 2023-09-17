@@ -10,10 +10,15 @@ const projects: ProjectType[] = [
     url: "https://github.com/daishek/CarRental",
     tags: ["Python", "Django", "Bootstrap"],
   },
+  // {
+  //   title: "Job portal",
+  //   url: "https://github.com/slimanesedrati/job-portal",
+  //   tags: ["Python", "Django", "NextJs", "TypeScript", "TailwindCSS"],
+  // },
   {
-    title: "Job portal",
-    url: "https://github.com/slimanesedrati/job-portal",
-    tags: ["Python", "Django", "NextJs", "TypeScript", "TailwindCSS"],
+    title: "Talents",
+    url: "https://talentsapp.vercel.app/",
+    tags: ["NextJs 13", "TypeScript", "TailwindCSS", "Prisma ORM", "Mongo DB", "Shadcn UI"],
   },
   {
     title: "E-commerce admin dashboard",
