@@ -16,9 +16,16 @@ const projects: ProjectType[] = [
   //   tags: ["Python", "Django", "NextJs", "TypeScript", "TailwindCSS"],
   // },
   {
-    title: "Talents",
-    url: "https://talentsapp.vercel.app/",
-    tags: ["NextJs 13", "TypeScript", "TailwindCSS", "Prisma ORM", "Mongo DB", "Shadcn UI"],
+    title: "Infinite CV",
+    url: "https://8cv.vercel.app/",
+    tags: [
+      "NextJs 13",
+      "TypeScript",
+      "TailwindCSS",
+      "Prisma ORM",
+      "Mongo DB",
+      "Shadcn UI",
+    ],
   },
   {
     title: "E-commerce admin dashboard",
