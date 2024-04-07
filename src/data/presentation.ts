@@ -16,8 +16,9 @@ const presentation: PresentationType = {
     "Passionate software engineering student and frontend developer from Algeria. Currently working with NextJS and Typescript. Curious about AI and ML. Let's create amazing web experiences together! 🚀💫",
   mail: "daichekkal@gmail.com",
   social: [
-    { label: "Github", url: "https://github.com/daishek" },
+    { label: "Github", url: "https://github.com/idaix" },
     { label: "𝕏", url: "https://x.com/daixek" },
+    { label: "in", url: "https://www.linkedin.com/in/daichekkal/" },
   ],
 };
 

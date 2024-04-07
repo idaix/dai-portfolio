@@ -6,15 +6,15 @@ type ProjectType = {
 
 const projects: ProjectType[] = [
   {
-    title: "Autorent",
-    url: "https://github.com/daishek/CarRental",
-    tags: ["Python", "Django", "Bootstrap"],
+    title: "Caroussa - Car Rental Sass",
+    url: "https://caroussa.vercel.app/",
+    tags: ["NextJs", "TypeScript", "TailwindCSS", "Shadcn UI"],
   },
-  // {
-  //   title: "Job portal",
-  //   url: "https://github.com/slimanesedrati/job-portal",
-  //   tags: ["Python", "Django", "NextJs", "TypeScript", "TailwindCSS"],
-  // },
+  {
+    title: "VTC Paris / Private driver",
+    url: "https://vtc-app.vercel.app/",
+    tags: ["NextJs", "TypeScript", "TailwindCSS", "Prisma"],
+  },
   {
     title: "Infinite CV",
     url: "https://8cv.vercel.app/",
@@ -26,11 +26,6 @@ const projects: ProjectType[] = [
       "Mongo DB",
       "Shadcn UI",
     ],
-  },
-  {
-    title: "E-commerce admin dashboard",
-    url: "https://github.com/daishek/next13-ecommerce-admin-dashboard",
-    tags: ["NextJs", "TypeScript", "TailwindCSS", "Prisma"],
   },
 ];
 
