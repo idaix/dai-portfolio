@@ -13,7 +13,7 @@ type PresentationType = {
 const presentation: PresentationType = {
   title: "Hi, I'am Dai",
   description:
-    " Passionate software engineer and full-stack web developer from Algeria, with a solid background in building scalable and intuitive web applications. Currently working with Next.js, TypeScript, Django, and NestJS, crafting seamless digital experiences and optimizing business processes. I’m especially curious about AI and machine learning, and love applying tech to solve real-world problems—from automating internal workflows to developing startup solutions. Let’s build innovative and impactful web experiences together! 🚀💫",
+    " Passionate software engineer and full-stack web developer from Algeria, with a solid background in building scalable and intuitive web applications. Currently working with Next.js, TypeScript, Django, and NestJS, crafting seamless digital experiences and optimizing business processes.</br>I’m especially curious about AI and machine learning, and love applying tech to solve real-world problems—from automating internal workflows to developing startup solutions.</br>Let’s build innovative and impactful web experiences together! 🚀💫",
   mail: "daichekkal@gmail.com",
   social: [
     { label: "Github", url: "https://github.com/idaix" },
