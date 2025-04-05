@@ -6,9 +6,14 @@ type ProjectType = {
 
 const projects: ProjectType[] = [
   {
+    title: "TTRIGG Travel",
+    url: "https://ttrigg.tech/",
+    tags: ["NextJs", "TypeScript", "TailwindCSS", "Shadcn UI", "Django + DRF"],
+  },
+  {
     title: "Caroussa - Car Rental Sass",
     url: "https://caroussa.vercel.app/",
-    tags: ["NextJs", "TypeScript", "TailwindCSS", "Shadcn UI"],
+    tags: ["NextJs", "TypeScript", "TailwindCSS", "Shadcn UI", "Django + DRF"],
   },
   {
     title: "VTC Paris / Private driver",
